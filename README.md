@@ -29,8 +29,8 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
                                                         progressed beyond the “Applied” stage. These graduation years also have the
                                                         highest number of hired candidates.
   
-- Candidates’ degree and colleges : Candidates with B.Com degree were chosen the most by the companies.
-                                    There were some candidates who studied at IIT institutes and still get low salary compared to other IIT candidates.
+- Candidates’ degree and colleges : Candidates with B.Com degree were chosen the most by the companies for hiring.
+                                    There were some candidates who studied at IIT institutes and still get low salary compared to other candidates.
                                     There were some candidates with zero backlogs, zero career gap and more than three certifications but still didn’t 
                                     get hired. Most of candidates are from Computer Application branch compared with the other branches.
                                     Some companies hired more candidates with backlogs than candidates with no backlogs.
@@ -42,8 +42,7 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
 - Companies : Fractal Analytics, Cognizant, Tata Steel, Absolutdata are the companies which provides better salary and
               respond quickly during hiring process and this finding is based on the specified conditions.
               Amazon India and BigBasket had the highest number of hired candidates during the period 2021-2024.
-              The analysis suggests that the number of projects alone is not sufficient to explain hiring outcomes.  
-              Other factors may also influence the hiring outcomes.
+              The analysis suggests that the number of projects alone is not sufficient to explain hiring outcomes.  Other factors may also influence the hiring outcomes.
   
 - Job role : More candidates were hired for roles such as Backend developer, Cloud Engineer, Digital marketing executive compared with other roles during the                   period 2021-2024.
   
@@ -51,8 +50,7 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
   
 - Job location : Lucknow and Visakhapatnam had the highest number of hired candidates among the job locations.
   
-- Time taken to respond by companies : Average time taken by each companies to respond to candidates during hiring process is more than 20 days,  
-                                       indicating that the hiring process generally involved a considerable waiting time for candidates.
+- Time taken to respond by companies : Average time taken by each companies to respond to candidates during hiring process is more than 20 days,  indicating that the hiring process generally involved a considerable waiting time for candidates.
   
 - Salary provided by companies : Cognizant offered the highest salary among the companies in the dataset.
                                  The correlation analysis shows that, candidates with high CGPA tended to receive low salary while candidates with low CGPA 
