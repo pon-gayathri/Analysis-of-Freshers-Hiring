@@ -13,7 +13,7 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
 - PowerBI
 
 ## What I did
-- Cleaned and analyzed the dataset, handled missing values, removed logically inconsistent rows,
+- Cleaned and analyzed the dataset - handled missing values, removed logically inconsistent rows,
   checked for duplicates and outliers, created new calculated columns, renamed column names.
 - Performed statistical analysis (Two Sample T-Test, Correlation, Probability, Descriptive statistics)
   to identify hiring patterns.
