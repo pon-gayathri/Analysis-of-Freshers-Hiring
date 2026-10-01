@@ -63,3 +63,9 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
   
 - Hiring based on referral : Candidates without  referral were hired more than the candidates who applied with referral.
 
+## Dashboard Screenshots
+
+![Dashboard Page 1](Dashboard%20page%201.png)
+![Dashboard Page 2](Dashboard%20page%202.png)
+![Dashboard Page 3](Dashboard%20page%203.png)
+![Dashboard Page 4](Dashboard%20page%204.png)
