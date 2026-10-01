@@ -65,7 +65,20 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
 
 ## Dashboard Screenshots
 
+### Page 1
 ![Dashboard Page 1](Dashboard%20page%201.png)
+
+---
+
+### Page 2
 ![Dashboard Page 2](Dashboard%20page%202.png)
+
+---
+
+### Page 3
 ![Dashboard Page 3](Dashboard%20page%203.png)
+
+---
+
+### Page 4
 ![Dashboard Page 4](Dashboard%20page%204.png)
