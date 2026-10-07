@@ -82,3 +82,6 @@ Analysis of freshers hiring pattern in India using Python, MySQL and PowerBI.
 
 ### Page 4
 ![Dashboard Page 4](Dashboard%20page%204.png)
+
+## Project Details
+This project was independently completed by me, covering data cleaning, exploratory analysis, SQL based data analysis and Power BI visualization.
